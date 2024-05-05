@@ -1,0 +1,57 @@
+
+.heading
+{
+    background-color: #00FFD1;
+    margin: auto;
+    width: auto;
+    padding: 1px 30px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: "Abel", sans-serif;
+    
+}
+
+.login
+{
+    background-color: #31363F;
+    margin: auto;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid #00FFD1;
+    color: white;
+    font-family: "Abel", sans-serif;
+}
+
+form
+{
+    display: inline-block;
+}
+
+.main
+{
+    background-color:#121212;
+    border-radius: 15px;
+    border: 1px solid #00FFD1;
+    padding: 30px;
+    margin: auto;
+    width: max-content;
+    text-align: center;
+    margin-top: 10%;
+}
+
+form input
+{
+    border-radius: 10px;
+    height: 30px;
+    
+}
+
+#submit
+{
+    background-color: #121212;
+    color: white;
+    border: 1px solid #00FFD1;
+    width: 30%;
+
+}
